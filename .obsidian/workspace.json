@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/1. Hershey Misc - ONGOING WORK.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/1. Hershey Misc - ONGOING WORK.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Materials On-Site.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c1291e7ffbd00e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Equipment On-Site.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Equipment On-Site.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Equipment On-Site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site.md"
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Equipment On-Site.md"
               }
             }
           }
@@ -185,11 +197,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9974587e88900eb6",
+  "active": "3c1291e7ffbd00e4",
   "lastOpenFiles": [
-    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Unforseen Delays.md",
-    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
-    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site.md",
+    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/2. Hershey - Materials On-Site.md",
+    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/1. Hershey Misc - ONGOING WORK.md",
+    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/3. Hershey - Unforseen Delays.md",
     "README.md",
     "Github Info/Creating new SSH Key for Github.md"
   ]
