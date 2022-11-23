@@ -1,17 +1,16 @@
-Date of Submission - 11/26/2022 
-Time of Submission - 2:45
+```
+Confirmed by : Brian Chambers
+Date of Submission : 11/26/2022 
+Time of Submission : 2:45
+```
 
 1. 
 2. 
 3. 
 
+***
 
-**_NOTE:_**  
 
-```
----
 NOTES:
 
-It works with almost all markdown flavours (the below blank line matters).
----
-```
+**Please note the date and individual that submitted this. You may need to verify with an individual on site if the date is outside a reasonable range. Otherwise use this to assume what is on-site.**
