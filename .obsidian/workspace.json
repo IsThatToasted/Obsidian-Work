@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c635915049023793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,6 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9c65c2a0322654a1",
-  "lastOpenFiles": []
+  "active": "d43e5f3f452240bc",
+  "lastOpenFiles": [
+    "Github Info/Creating new SSH Key for Github.md",
+    "README.md"
+  ]
 }
