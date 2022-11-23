@@ -6,6 +6,12 @@ Time of Submission - 2:45
 3. 
 
 
+**_NOTE:_**  
+
 ```
+---
+NOTES:
+
+It works with almost all markdown flavours (the below blank line matters).
+---
 ```
-Please note, this
