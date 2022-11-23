@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC/Hershey Misc - Notes.md",
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f69cdb821bcba73c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9974587e88900eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hershey - Unforseen Delays.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC/Hershey Misc - Notes.md",
+                "file": "Hershey - Unforseen Delays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC/Hershey Misc - Notes.md",
+                "file": "Hershey - Unforseen Delays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Two Dudes Management Notes/Hershey MISC/Hershey Misc - Notes.md"
+                "file": "Hershey - Unforseen Delays.md"
               }
             }
           }
@@ -161,10 +185,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6ae7743362f87be",
+  "active": "9974587e88900eb6",
   "lastOpenFiles": [
+    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey Misc - ONGOING WORK.md",
+    "Two Dudes Management Notes/Hershey MISC - PO 425895-20/Hershey - Materials On-Site..md",
     "README.md",
-    "Two Dudes Management Notes/Hershey MISC/Hershey Misc - Notes.md",
     "Github Info/Creating new SSH Key for Github.md"
   ]
 }

@@ -1,4 +1,6 @@
-To be completed:
+
+### Listed below is work pending to be completed INSIDE the scope provided.
+
 
 1. Lower Gazebo needs first and second coat on secondary color.
 
